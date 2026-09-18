@@ -6,7 +6,7 @@ project:
       files:
         - file: ./LEDs.c
         - file: ./LEDs.h
-        - file: ../../../../LAB5/LAB5/main.c
+        - file: ./main.c
 
     - group: Device
       files:
